@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/usr/local/rvm'
+let g:netrw_dirhist_2='/home/dalvan/projects/codifying/config'
+let g:netrw_dirhist_3='/usr/local/rvm/gems/ruby-1.9.3-p286@mfvideoextreme/gems'
+let g:netrw_dirhist_4='/home/dalvan/projects/eduK/internacional/config/initializers'
+let g:netrw_dirhist_5='/home/dalvan/projects/eduK/internacional/db'
+let g:netrw_dirhist_6='/home/dalvan/projects/eduK/internacional/config'
+let g:netrw_dirhist_7='/home/dalvan/projects/eduK/internacional/app'
+let g:netrw_dirhist_8='/home/dalvan/Dropbox/Freelas'
+let g:netrw_dirhist_9='/home/dalvan/projects/eduK/internacional/.git'
